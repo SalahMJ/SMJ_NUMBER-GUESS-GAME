@@ -7,7 +7,7 @@ n = random.randint(1,10001)
 c = colored.fg('green')
 r = colored.attr('reset')
 v = colored.fg('red')
-b = colored.fg('blue')
+b = colored.fg('cyan')
 
 '''
 ONCE YOU GUESS THE NUMBER, PROGRAMME SHOULD END SO USE (BREAK) STATEMENT
